@@ -1,5 +1,7 @@
 # Run with `flutter pub run ffigen --config ffigen.yaml`.
 name: DartCecBindings
+llvm-path:
+  - '/usr/lib/llvm-14'
 description: |
   Bindings for `src/dart_cec.h`.
 

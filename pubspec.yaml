@@ -38,6 +38,8 @@ flutter:
   # Please refer to README.md for a detailed explanation.
   plugin:
     platforms:
+      linux:
+        ffiPlugin: true
     # This FFI plugin project was generated without specifying any
     # platforms with the `--platform` argument. If you see the `some_platform` map below, remove it and
     # then add platforms following the instruction here:

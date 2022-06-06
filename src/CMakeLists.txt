@@ -6,7 +6,7 @@ cmake_minimum_required(VERSION 3.10)
 project(dart_cec_library VERSION 0.0.1 LANGUAGES C)
 
 add_library(dart_cec SHARED
-  "dart_cec.c"
+  "dart_cec.so"
 )
 
 set_target_properties(dart_cec PROPERTIES

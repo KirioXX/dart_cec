@@ -1,0 +1,6 @@
+[submodule "submodules/platform"]
+	path = submodules/platform
+	url = git@github.com:Pulse-Eight/platform.git
+[submodule "submodules/libcec"]
+	path = submodules/libcec
+	url = https://github.com/Pulse-Eight/libcec.git
